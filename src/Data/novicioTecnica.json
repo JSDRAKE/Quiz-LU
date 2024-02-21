@@ -1,0 +1,482 @@
+[
+    {
+        "numero_pregunta": 1,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es TCP/IP?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un protocolo de comunicación"},
+            {"letra": "b", "opcion": "Una dirección IP"},
+            {"letra": "c", "opcion": "Un tipo de cable de red"},
+            {"letra": "d", "opcion": "Un estándar de hardware"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un protocolo de comunicación"}
+    },
+    {
+        "numero_pregunta": 2,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un sistema operativo?",
+        "opciones": [
+            {"letra": "a", "opcion": "Software que administra recursos de hardware"},
+            {"letra": "b", "opcion": "Un tipo de lenguaje de programación"},
+            {"letra": "c", "opcion": "Un dispositivo de entrada"},
+            {"letra": "d", "opcion": "Un tipo de hardware"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Software que administra recursos de hardware"}
+    },
+    {
+        "numero_pregunta": 3,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es HTML?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un lenguaje de marcado para crear páginas web"},
+            {"letra": "b", "opcion": "Un sistema de gestión de bases de datos"},
+            {"letra": "c", "opcion": "Un protocolo de seguridad"},
+            {"letra": "d", "opcion": "Un lenguaje de programación de bajo nivel"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un lenguaje de marcado para crear páginas web"}
+    },
+    {
+        "numero_pregunta": 4,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué significa CPU?",
+        "opciones": [
+            {"letra": "a", "opcion": "Central Processing Unit"},
+            {"letra": "b", "opcion": "Computer Personal Unit"},
+            {"letra": "c", "opcion": "Computer Processing Unit"},
+            {"letra": "d", "opcion": "Central Personal Unit"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Central Processing Unit"}
+    },
+    {
+        "numero_pregunta": 5,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un algoritmo?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un conjunto de instrucciones para resolver un problema"},
+            {"letra": "b", "opcion": "Un tipo de hardware"},
+            {"letra": "c", "opcion": "Un tipo de virus informático"},
+            {"letra": "d", "opcion": "Un tipo de red de computadoras"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un conjunto de instrucciones para resolver un problema"}
+    },
+    {
+        "numero_pregunta": 6,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un compilador?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un programa que traduce código de alto nivel a código de máquina"},
+            {"letra": "b", "opcion": "Un tipo de sistema operativo"},
+            {"letra": "c", "opcion": "Un dispositivo de entrada"},
+            {"letra": "d", "opcion": "Un tipo de lenguaje de programación"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un programa que traduce código de alto nivel a código de máquina"}
+    },
+    {
+        "numero_pregunta": 7,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es el lenguaje de programación Java?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un lenguaje de programación orientado a objetos"},
+            {"letra": "b", "opcion": "Un lenguaje de programación de bajo nivel"},
+            {"letra": "c", "opcion": "Un tipo de hardware"},
+            {"letra": "d", "opcion": "Un sistema operativo"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un lenguaje de programación orientado a objetos"}
+    },
+    {
+        "numero_pregunta": 8,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un firewall?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un sistema de gestión de bases de datos"},
+            {"letra": "b", "opcion": "Un dispositivo de seguridad de red"},
+            {"letra": "c", "opcion": "Un lenguaje de programación"},
+            {"letra": "d", "opcion": "Un tipo de cable de red"}
+        ],
+        "respuesta_correcta": {"letra": "b", "opcion": "Un dispositivo de seguridad de red"}
+    },
+    {
+        "numero_pregunta": 9,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un DNS?",
+        "opciones": [
+            {"letra": "a", "opcion": "Domain Name System"},
+            {"letra": "b", "opcion": "Digital Network System"},
+            {"letra": "c", "opcion": "Data Network System"},
+            {"letra": "d", "opcion": "Data Name System"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Domain Name System"}
+    },
+    {
+        "numero_pregunta": 10,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un algoritmo de ordenamiento?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un conjunto de pasos para organizar datos de manera sistemática"},
+            {"letra": "b", "opcion": "Un tipo de procesador"},
+            {"letra": "c", "opcion": "Un dispositivo de entrada"},
+            {"letra": "d", "opcion": "Un lenguaje de programación"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un conjunto de pasos para organizar datos de manera sistemática"}
+    },
+    {
+        "numero_pregunta": 11,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un bucle 'for' en programación?",
+        "opciones": [
+            {"letra": "a", "opcion": "Una estructura de control de flujo que se repite un número determinado de veces"},
+            {"letra": "b", "opcion": "Una variable que no puede cambiar de valor"},
+            {"letra": "c", "opcion": "Un tipo de dato numérico"},
+            {"letra": "d", "opcion": "Una estructura de control de flujo que se repite infinitamente"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Una estructura de control de flujo que se repite un número determinado de veces"}
+    },
+    {
+        "numero_pregunta": 12,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un bucle 'while' en programación?",
+        "opciones": [
+            {"letra": "a", "opcion": "Una estructura de control de flujo que se repite mientras una condición sea verdadera"},
+            {"letra": "b", "opcion": "Una variable que no puede cambiar de valor"},
+            {"letra": "c", "opcion": "Un tipo de dato numérico"},
+            {"letra": "d", "opcion": "Una estructura de control de flujo que se repite un número determinado de veces"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Una estructura de control de flujo que se repite mientras una condición sea verdadera"}
+    },
+    {
+        "numero_pregunta": 13,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un bucle 'do-while' en programación?",
+        "opciones": [
+            {"letra": "a", "opcion": "Una estructura de control de flujo que se repite al menos una vez y luego mientras una condición sea verdadera"},
+            {"letra": "b", "opcion": "Una variable que no puede cambiar de valor"},
+            {"letra": "c", "opcion": "Un tipo de dato numérico"},
+            {"letra": "d", "opcion": "Una estructura de control de flujo que se repite un número determinado de veces"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Una estructura de control de flujo que se repite al menos una vez y luego mientras una condición sea verdadera"}
+    },
+    {
+        "numero_pregunta": 14,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un API?",
+        "opciones": [
+            {"letra": "a", "opcion": "Interfaz de Programación de Aplicaciones"},
+            {"letra": "b", "opcion": "Acción Programática de Inicio"},
+            {"letra": "c", "opcion": "Aplicación de Procesamiento de Imágenes"},
+            {"letra": "d", "opcion": "Archivo de Programas e Instrucciones"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Interfaz de Programación de Aplicaciones"}
+    },
+    {
+        "numero_pregunta": 15,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es el protocolo HTTP?",
+        "opciones": [
+            {"letra": "a", "opcion": "Protocolo de Transferencia de Hipertexto"},
+            {"letra": "b", "opcion": "Hipertexto de Transferencia de Protocolo"},
+            {"letra": "c", "opcion": "Protocolo de Transferencia de Hyperlink"},
+            {"letra": "d", "opcion": "Hyperlink de Transferencia de Protocolo"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Protocolo de Transferencia de Hipertexto"}
+    },
+    {
+        "numero_pregunta": 16,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un servidor web?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un software que sirve páginas web a los clientes"},
+            {"letra": "b", "opcion": "Un tipo de computadora personal"},
+            {"letra": "c", "opcion": "Un lenguaje de programación"},
+            {"letra": "d", "opcion": "Un protocolo de seguridad"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un software que sirve páginas web a los clientes"}
+    },
+    {
+        "numero_pregunta": 17,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es el protocolo FTP?",
+        "opciones": [
+            {"letra": "a", "opcion": "Protocolo de Transferencia de Archivos"},
+            {"letra": "b", "opcion": "Protocolo de Transferencia de Programas"},
+            {"letra": "c", "opcion": "Protocolo de Transferencia de Datos"},
+            {"letra": "d", "opcion": "Protocolo de Transferencia de Hipertexto"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Protocolo de Transferencia de Archivos"}
+    },
+    {
+        "numero_pregunta": 18,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es una base de datos relacional?",
+        "opciones": [
+            {"letra": "a", "opcion": "Una base de datos que organiza la información en tablas relacionadas entre sí"},
+            {"letra": "b", "opcion": "Una base de datos que no tiene relaciones entre los datos"},
+            {"letra": "c", "opcion": "Una base de datos que solo almacena datos numéricos"},
+            {"letra": "d", "opcion": "Una base de datos que no permite consultas"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Una base de datos que organiza la información en tablas relacionadas entre sí"}
+    },
+    {
+        "numero_pregunta": 19,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es SQL?",
+        "opciones": [
+            {"letra": "a", "opcion": "Structured Query Language"},
+            {"letra": "b", "opcion": "Simple Query Language"},
+            {"letra": "c", "opcion": "Sequential Query Language"},
+            {"letra": "d", "opcion": "Structured Question Language"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Structured Query Language"}
+    },
+    {
+        "numero_pregunta": 20,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un IDE?",
+        "opciones": [
+            {"letra": "a", "opcion": "Entorno de Desarrollo Integrado"},
+            {"letra": "b", "opcion": "Interfaz de Desarrollo de Ejecución"},
+            {"letra": "c", "opcion": "Instituto de Desarrollo de Estándares"},
+            {"letra": "d", "opcion": "Interfaz de Desarrollo de Entidades"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Entorno de Desarrollo Integrado"}
+    },
+    {
+        "numero_pregunta": 21,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es la virtualización?",
+        "opciones": [
+            {"letra": "a", "opcion": "La creación de una versión virtual de un recurso tecnológico"},
+            {"letra": "b", "opcion": "El proceso de convertir datos analógicos en digitales"},
+            {"letra": "c", "opcion": "La conexión remota a un servidor"},
+            {"letra": "d", "opcion": "El proceso de crear hardware físico"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "La creación de una versión virtual de un recurso tecnológico"}
+    },
+    {
+        "numero_pregunta": 22,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un servidor DNS?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un servidor que traduce nombres de dominio a direcciones IP"},
+            {"letra": "b", "opcion": "Un servidor que almacena bases de datos"},
+            {"letra": "c", "opcion": "Un servidor que administra cuentas de usuario"},
+            {"letra": "d", "opcion": "Un servidor que gestiona archivos"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un servidor que traduce nombres de dominio a direcciones IP"}
+    },
+    {
+        "numero_pregunta": 23,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es una red LAN?",
+        "opciones": [
+            {"letra": "a", "opcion": "Una red de área local"},
+            {"letra": "b", "opcion": "Una red de área amplia"},
+            {"letra": "c", "opcion": "Una red de área personal"},
+            {"letra": "d", "opcion": "Una red de área pública"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Una red de área local"}
+    },
+    {
+        "numero_pregunta": 24,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un cable Ethernet?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un tipo de cable para redes de área local (LAN)"},
+            {"letra": "b", "opcion": "Un tipo de cable de alimentación eléctrica"},
+            {"letra": "c", "opcion": "Un tipo de cable de fibra óptica"},
+            {"letra": "d", "opcion": "Un tipo de cable para redes de área amplia (WAN)"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un tipo de cable para redes de área local (LAN)"}
+    },
+    {
+        "numero_pregunta": 25,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un switch?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un dispositivo que conecta múltiples dispositivos en una red y dirige el tráfico de datos"},
+            {"letra": "b", "opcion": "Un tipo de lenguaje de programación"},
+            {"letra": "c", "opcion": "Un sistema operativo"},
+            {"letra": "d", "opcion": "Un tipo de servidor web"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un dispositivo que conecta múltiples dispositivos en una red y dirige el tráfico de datos"}
+    },
+    {
+        "numero_pregunta": 26,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un enrutador (router)?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un dispositivo que interconecta redes y dirige el tráfico de datos entre ellas"},
+            {"letra": "b", "opcion": "Un tipo de servidor de bases de datos"},
+            {"letra": "c", "opcion": "Un sistema operativo"},
+            {"letra": "d", "opcion": "Un tipo de cable de red"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un dispositivo que interconecta redes y dirige el tráfico de datos entre ellas"}
+    },
+    {
+        "numero_pregunta": 27,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un protocolo de enrutamiento?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un conjunto de reglas para determinar la mejor ruta para enviar datos en una red"},
+            {"letra": "b", "opcion": "Una regla para conectar dispositivos en una red"},
+            {"letra": "c", "opcion": "Una tecnología para asegurar la comunicación en una red"},
+            {"letra": "d", "opcion": "Un tipo de cable utilizado en redes"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un conjunto de reglas para determinar la mejor ruta para enviar datos en una red"}
+    },
+    {
+        "numero_pregunta": 28,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un servidor DHCP?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un servidor que asigna direcciones IP de manera automática a los dispositivos en una red"},
+            {"letra": "b", "opcion": "Un servidor que almacena bases de datos"},
+            {"letra": "c", "opcion": "Un servidor que administra cuentas de usuario"},
+            {"letra": "d", "opcion": "Un servidor que gestiona archivos"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un servidor que asigna direcciones IP de manera automática a los dispositivos en una red"}
+    },
+    {
+        "numero_pregunta": 29,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es el almacenamiento en la nube?",
+        "opciones": [
+            {"letra": "a", "opcion": "El almacenamiento de datos en servidores remotos accesibles a través de internet"},
+            {"letra": "b", "opcion": "El almacenamiento de datos en discos duros locales"},
+            {"letra": "c", "opcion": "El almacenamiento de datos en tarjetas de memoria"},
+            {"letra": "d", "opcion": "El almacenamiento de datos en dispositivos USB"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "El almacenamiento de datos en servidores remotos accesibles a través de internet"}
+    },
+    {
+        "numero_pregunta": 30,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es la criptografía?",
+        "opciones": [
+            {"letra": "a", "opcion": "El estudio de técnicas para asegurar la comunicación"},
+            {"letra": "b", "opcion": "Un tipo de lenguaje de programación"},
+            {"letra": "c", "opcion": "Un tipo de hardware"},
+            {"letra": "d", "opcion": "Un conjunto de protocolos de red"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "El estudio de técnicas para asegurar la comunicación"}
+    },
+    {
+        "numero_pregunta": 31,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un ataque de denegación de servicio (DDoS)?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un intento de hacer que un recurso en línea no esté disponible para los usuarios legítimos"},
+            {"letra": "b", "opcion": "Un intento de robar información personal de los usuarios"},
+            {"letra": "c", "opcion": "Un intento de dañar físicamente un servidor"},
+            {"letra": "d", "opcion": "Un intento de acceder ilegalmente a un sistema informático"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un intento de hacer que un recurso en línea no esté disponible para los usuarios legítimos"}
+    },
+    {
+        "numero_pregunta": 32,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un ataque de ingeniería social?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un intento de manipular a las personas para obtener información confidencial"},
+            {"letra": "b", "opcion": "Un intento de robar información personal de los usuarios"},
+            {"letra": "c", "opcion": "Un intento de dañar físicamente un servidor"},
+            {"letra": "d", "opcion": "Un intento de acceder ilegalmente a un sistema informático"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un intento de manipular a las personas para obtener información confidencial"}
+    },
+    {
+        "numero_pregunta": 33,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un virus informático?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un programa malicioso que se propaga e infecta otros programas"},
+            {"letra": "b", "opcion": "Un tipo de hardware"},
+            {"letra": "c", "opcion": "Un tipo de red de computadoras"},
+            {"letra": "d", "opcion": "Un tipo de lenguaje de programación"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un programa malicioso que se propaga e infecta otros programas"}
+    },
+    {
+        "numero_pregunta": 34,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es el phishing?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un tipo de ataque de ingeniería social que intenta engañar a las personas para que revelen información personal"},
+            {"letra": "b", "opcion": "Un intento de hacer que un recurso en línea no esté disponible para los usuarios legítimos"},
+            {"letra": "c", "opcion": "Un intento de dañar físicamente un servidor"},
+            {"letra": "d", "opcion": "Un intento de robar información personal de los usuarios"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un tipo de ataque de ingeniería social que intenta engañar a las personas para que revelen información personal"}
+    },
+    {
+        "numero_pregunta": 35,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un firewall de aplicación?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un firewall que opera a nivel de aplicación y puede controlar y filtrar tráfico basado en reglas específicas de la aplicación"},
+            {"letra": "b", "opcion": "Un firewall que solo permite conexiones entrantes"},
+            {"letra": "c", "opcion": "Un firewall que solo permite conexiones salientes"},
+            {"letra": "d", "opcion": "Un firewall que solo permite tráfico de correo electrónico"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un firewall que opera a nivel de aplicación y puede controlar y filtrar tráfico basado en reglas específicas de la aplicación"}
+    },
+    {
+        "numero_pregunta": 36,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es la ingeniería inversa?",
+        "opciones": [
+            {"letra": "a", "opcion": "El proceso de desmontar y analizar un producto para entender su funcionamiento interno"},
+            {"letra": "b", "opcion": "El proceso de construir un producto desde cero"},
+            {"letra": "c", "opcion": "El proceso de desarrollar software de código abierto"},
+            {"letra": "d", "opcion": "El proceso de crear una copia ilegal de un software"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "El proceso de desmontar y analizar un producto para entender su funcionamiento interno"}
+    },
+    {
+        "numero_pregunta": 37,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es el software de código abierto?",
+        "opciones": [
+            {"letra": "a", "opcion": "Software cuyo código fuente está disponible para el público y puede ser modificado y distribuido libremente"},
+            {"letra": "b", "opcion": "Software que solo puede ser utilizado por un número limitado de usuarios"},
+            {"letra": "c", "opcion": "Software que está protegido por derechos de autor"},
+            {"letra": "d", "opcion": "Software que solo está disponible para empresas"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Software cuyo código fuente está disponible para el público y puede ser modificado y distribuido libremente"}
+    },
+    {
+        "numero_pregunta": 38,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es un sistema de control de versiones?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un sistema que registra cambios en un archivo o conjunto de archivos a lo largo del tiempo"},
+            {"letra": "b", "opcion": "Un sistema que controla el acceso a los archivos en una red"},
+            {"letra": "c", "opcion": "Un sistema que controla el hardware de una computadora"},
+            {"letra": "d", "opcion": "Un sistema que controla el flujo de datos en una red"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un sistema que registra cambios en un archivo o conjunto de archivos a lo largo del tiempo"}
+    },
+    {
+        "numero_pregunta": 39,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es la programación orientada a objetos?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un paradigma de programación que organiza el software en objetos que interactúan entre sí"},
+            {"letra": "b", "opcion": "Un tipo de lenguaje de programación"},
+            {"letra": "c", "opcion": "Un sistema operativo"},
+            {"letra": "d", "opcion": "Un protocolo de red"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un paradigma de programación que organiza el software en objetos que interactúan entre sí"}
+    },
+    {
+        "numero_pregunta": 40,
+        "seccion": "tecnica",
+        "pregunta": "¿Qué es la recursividad en programación?",
+        "opciones": [
+            {"letra": "a", "opcion": "Un concepto en el que una función se llama a sí misma directa o indirectamente"},
+            {"letra": "b", "opcion": "Un tipo de bucle"},
+            {"letra": "c", "opcion": "Un tipo de error en el código"},
+            {"letra": "d", "opcion": "Un tipo de variable"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Un concepto en el que una función se llama a sí misma directa o indirectamente"}
+    }
+]
