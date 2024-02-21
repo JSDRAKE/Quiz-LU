@@ -1,0 +1,482 @@
+[
+    {
+        "numero_pregunta": 1,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es la capital de Francia?",
+        "opciones": [
+            {"letra": "a", "opcion": "Madrid"},
+            {"letra": "b", "opcion": "B: Londres"},
+            {"letra": "c", "opcion": " A: París"},
+            {"letra": "d", "opcion": "Roma"}
+        ],
+        "respuesta_correcta": {"letra": "c", "opcion": " A: París"}
+    },
+    {
+        "numero_pregunta": 2,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "opciones": [
+            {"letra": "a", "opcion": "Nilo"},
+            {"letra": "b", "opcion": "Amazonas"},
+            {"letra": "c", "opcion": "Misisipi"},
+            {"letra": "d", "opcion": "Yangtsé"}
+        ],
+        "respuesta_correcta": {"letra": "b", "opcion": "Amazonas"}
+    },
+    {
+        "numero_pregunta": 3,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el país más grande del mundo por territorio?",
+        "opciones": [
+            {"letra": "a", "opcion": "Estados Unidos"},
+            {"letra": "b", "opcion": "China"},
+            {"letra": "c", "opcion": "Canadá"},
+            {"letra": "d", "opcion": "Rusia"}
+        ],
+        "respuesta_correcta": {"letra": "d", "opcion": "Rusia"}
+    },
+    {
+        "numero_pregunta": 4,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Quién escribió 'Don Quijote de la Mancha'?",
+        "opciones": [
+            {"letra": "a", "opcion": "Miguel de Cervantes"},
+            {"letra": "b", "opcion": "Gabriel García Márquez"},
+            {"letra": "c", "opcion": "Jorge Luis Borges"},
+            {"letra": "d", "opcion": "Pablo Neruda"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Miguel de Cervantes"}
+    },
+    {
+        "numero_pregunta": 5,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el símbolo químico del oro?",
+        "opciones": [
+            {"letra": "a", "opcion": "Ag"},
+            {"letra": "b", "opcion": "Fe"},
+            {"letra": "c", "opcion": "Au"},
+            {"letra": "d", "opcion": "Pt"}
+        ],
+        "respuesta_correcta": {"letra": "c", "opcion": "Au"}
+    },
+    {
+        "numero_pregunta": 6,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+        "opciones": [
+            {"letra": "a", "opcion": "Tierra"},
+            {"letra": "b", "opcion": "Marte"},
+            {"letra": "c", "opcion": "Júpiter"},
+            {"letra": "d", "opcion": "Saturno"}
+        ],
+        "respuesta_correcta": {"letra": "c", "opcion": "Júpiter"}
+    },
+    {
+        "numero_pregunta": 7,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "opciones": [
+            {"letra": "a", "opcion": "Leonardo da Vinci"},
+            {"letra": "b", "opcion": "Pablo Picasso"},
+            {"letra": "c", "opcion": "Vincent van Gogh"},
+            {"letra": "d", "opcion": "Claude Monet"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Leonardo da Vinci"}
+    },
+    {
+        "numero_pregunta": 8,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el metal más abundante en la corteza terrestre?",
+        "opciones": [
+            {"letra": "a", "opcion": "Hierro"},
+            {"letra": "b", "opcion": "Aluminio"},
+            {"letra": "c", "opcion": "Cobre"},
+            {"letra": "d", "opcion": "Oro"}
+        ],
+        "respuesta_correcta": {"letra": "b", "opcion": "Aluminio"}
+    },
+    {
+        "numero_pregunta": 9,
+        "seccion": "reglamentacion",
+        "pregunta": "¿En qué año llegó el hombre a la Luna por primera vez?",
+        "opciones": [
+            {"letra": "a", "opcion": "1965"},
+            {"letra": "b", "opcion": "1969"},
+            {"letra": "c", "opcion": "1973"},
+            {"letra": "d", "opcion": "1981"}
+        ],
+        "respuesta_correcta": {"letra": "b", "opcion": "1969"}
+    },
+    {
+        "numero_pregunta": 10,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el océano más grande del mundo?",
+        "opciones": [
+            {"letra": "a", "opcion": "Atlántico"},
+            {"letra": "b", "opcion": "Índico"},
+            {"letra": "c", "opcion": "Pacífico"},
+            {"letra": "d", "opcion": "Ártico"}
+        ],
+        "respuesta_correcta": {"letra": "c", "opcion": "Pacífico"}
+    },
+    {
+        "numero_pregunta": 11,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el metal más ligero que se conoce?",
+        "opciones": [
+            {"letra": "a", "opcion": "Aluminio"},
+            {"letra": "b", "opcion": "Litio"},
+            {"letra": "c", "opcion": "Titanio"},
+            {"letra": "d", "opcion": "Magnesio"}
+        ],
+        "respuesta_correcta": {"letra": "b", "opcion": "Litio"}
+    },
+    {
+        "numero_pregunta": 12,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Quién escribió 'El principito'?",
+        "opciones": [
+            {"letra": "a", "opcion": "J.R.R. Tolkien"},
+            {"letra": "b", "opcion": "Antoine de Saint-Exupéry"},
+            {"letra": "c", "opcion": "Lewis Carroll"},
+            {"letra": "d", "opcion": "Franz Kafka"}
+        ],
+        "respuesta_correcta": {"letra": "b", "opcion": "Antoine de Saint-Exupéry"}
+    },
+    {
+        "numero_pregunta": 13,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el país más poblado del mundo?",
+        "opciones": [
+            {"letra": "a", "opcion": "India"},
+            {"letra": "b", "opcion": "China"},
+            {"letra": "c", "opcion": "Estados Unidos"},
+            {"letra": "d", "opcion": "Indonesia"}
+        ],
+        "respuesta_correcta": {"letra": "b", "opcion": "China"}
+    },
+    {
+        "numero_pregunta": 14,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Quién fue el primer presidente de los Estados Unidos?",
+        "opciones": [
+            {"letra": "a", "opcion": "Thomas Jefferson"},
+            {"letra": "b", "opcion": "Abraham Lincoln"},
+            {"letra": "c", "opcion": "George Washington"},
+            {"letra": "d", "opcion": "John F. Kennedy"}
+        ],
+        "respuesta_correcta": {"letra": "c", "opcion": "George Washington"}
+    },
+    {
+        "numero_pregunta": 15,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el animal terrestre más rápido?",
+        "opciones": [
+            {"letra": "a", "opcion": "Cebra"},
+            {"letra": "b", "opcion": "Guepardo"},
+            {"letra": "c", "opcion": "León"},
+            {"letra": "d", "opcion": "Antílope"}
+        ],
+        "respuesta_correcta": {"letra": "b", "opcion": "Guepardo"}
+    },
+    {
+        "numero_pregunta": 16,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el elemento más abundante en el universo?",
+        "opciones": [
+            {"letra": "a", "opcion": "Hidrógeno"},
+            {"letra": "b", "opcion": "Oxígeno"},
+            {"letra": "c", "opcion": "Helio"},
+            {"letra": "d", "opcion": "Carbono"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Hidrógeno"}
+    },
+    {
+        "numero_pregunta": 17,
+        "seccion": "reglamentacion",
+        "pregunta": "¿En qué año se fundó la ONU?",
+        "opciones": [
+            {"letra": "a", "opcion": "1945"},
+            {"letra": "b", "opcion": "1953"},
+            {"letra": "c", "opcion": "1960"},
+            {"letra": "d", "opcion": "1971"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "1945"}
+    },
+    {
+        "numero_pregunta": 18,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es la montaña más alta del mundo?",
+        "opciones": [
+            {"letra": "a", "opcion": "Monte Kilimanjaro"},
+            {"letra": "b", "opcion": "Monte Everest"},
+            {"letra": "c", "opcion": "Monte Fuji"},
+            {"letra": "d", "opcion": "Mont Blanc"}
+        ],
+        "respuesta_correcta": {"letra": "b", "opcion": "Monte Everest"}
+    },
+    {
+        "numero_pregunta": 19,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Quién compuso la Novena Sinfonía?",
+        "opciones": [
+            {"letra": "a", "opcion": "Ludwig van Beethoven"},
+            {"letra": "b", "opcion": "Wolfgang Amadeus Mozart"},
+            {"letra": "c", "opcion": "Johann Sebastian Bach"},
+            {"letra": "d", "opcion": "Franz Schubert"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Ludwig van Beethoven"}
+    },
+    {
+        "numero_pregunta": 20,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el elemento químico con el número atómico 1?",
+        "opciones": [
+            {"letra": "a", "opcion": "Hidrógeno"},
+            {"letra": "b", "opcion": "Oxígeno"},
+            {"letra": "c", "opcion": "Carbono"},
+            {"letra": "d", "opcion": "Hierro"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Hidrógeno"}
+    },
+    {
+        "numero_pregunta": 21,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el país con la mayor extensión territorial de América del Sur?",
+        "opciones": [
+            {"letra": "a", "opcion": "Brasil"},
+            {"letra": "b", "opcion": "Argentina"},
+            {"letra": "c", "opcion": "Colombia"},
+            {"letra": "d", "opcion": "Perú"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Brasil"}
+    },
+    {
+        "numero_pregunta": 22,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+        "opciones": [
+            {"letra": "a", "opcion": "Gabriel García Márquez"},
+            {"letra": "b", "opcion": "Mario Vargas Llosa"},
+            {"letra": "c", "opcion": "Pablo Neruda"},
+            {"letra": "d", "opcion": "Julio Cortázar"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Gabriel García Márquez"}
+    },
+    {
+        "numero_pregunta": 23,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el hueso más largo del cuerpo humano?",
+        "opciones": [
+            {"letra": "a", "opcion": "Fémur"},
+            {"letra": "b", "opcion": "Tibia"},
+            {"letra": "c", "opcion": "Húmero"},
+            {"letra": "d", "opcion": "Fíbula"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Fémur"}
+    },
+    {
+        "numero_pregunta": 24,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el océano más profundo del mundo?",
+        "opciones": [
+            {"letra": "a", "opcion": "Atlántico"},
+            {"letra": "b", "opcion": "Pacífico"},
+            {"letra": "c", "opcion": "Índico"},
+            {"letra": "d", "opcion": "Ártico"}
+        ],
+        "respuesta_correcta": {"letra": "b", "opcion": "Pacífico"}
+    },
+    {
+        "numero_pregunta": 25,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Quién fue el primer hombre en pisar la Luna?",
+        "opciones": [
+            {"letra": "a", "opcion": "Neil Armstrong"},
+            {"letra": "b", "opcion": "Buzz Aldrin"},
+            {"letra": "c", "opcion": "Yuri Gagarin"},
+            {"letra": "d", "opcion": "Alan Shepard"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Neil Armstrong"}
+    },
+    {
+        "numero_pregunta": 26,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el metal más pesado?",
+        "opciones": [
+            {"letra": "a", "opcion": "Plomo"},
+            {"letra": "b", "opcion": "Mercurio"},
+            {"letra": "c", "opcion": "Uranio"},
+            {"letra": "d", "opcion": "Oro"}
+        ],
+        "respuesta_correcta": {"letra": "c", "opcion": "Uranio"}
+    },
+    {
+        "numero_pregunta": 27,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el desierto más grande del mundo?",
+        "opciones": [
+            {"letra": "a", "opcion": "Desierto del Sahara"},
+            {"letra": "b", "opcion": "Desierto de Atacama"},
+            {"letra": "c", "opcion": "Desierto de Kalahari"},
+            {"letra": "d", "opcion": "Desierto de Gobi"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Desierto del Sahara"}
+    },
+    {
+        "numero_pregunta": 28,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Quién pintó 'La noche estrellada'?",
+        "opciones": [
+            {"letra": "a", "opcion": "Pablo Picasso"},
+            {"letra": "b", "opcion": "Vincent van Gogh"},
+            {"letra": "c", "opcion": "Leonardo da Vinci"},
+            {"letra": "d", "opcion": "Claude Monet"}
+        ],
+        "respuesta_correcta": {"letra": "b", "opcion": "Vincent van Gogh"}
+    },
+    {
+        "numero_pregunta": 29,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el idioma más hablado del mundo?",
+        "opciones": [
+            {"letra": "a", "opcion": "Inglés"},
+            {"letra": "b", "opcion": "Mandarín"},
+            {"letra": "c", "opcion": "Español"},
+            {"letra": "d", "opcion": "Hindi"}
+        ],
+        "respuesta_correcta": {"letra": "b", "opcion": "Mandarín"}
+    },
+    {
+        "numero_pregunta": 30,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Quién escribió 'Romeo y Julieta'?",
+        "opciones": [
+            {"letra": "a", "opcion": "William Shakespeare"},
+            {"letra": "b", "opcion": "Jane Austen"},
+            {"letra": "c", "opcion": "Charles Dickens"},
+            {"letra": "d", "opcion": "Leo Tolstoy"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "William Shakespeare"}
+    },
+    {
+        "numero_pregunta": 31,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el metal más caro del mundo?",
+        "opciones": [
+            {"letra": "a", "opcion": "Oro"},
+            {"letra": "b", "opcion": "Platino"},
+            {"letra": "c", "opcion": "Rodio"},
+            {"letra": "d", "opcion": "Paladio"}
+        ],
+        "respuesta_correcta": {"letra": "c", "opcion": "Rodio"}
+    },
+    {
+        "numero_pregunta": 32,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el país con la mayor cantidad de islas en el mundo?",
+        "opciones": [
+            {"letra": "a", "opcion": "Suecia"},
+            {"letra": "b", "opcion": "Indonesia"},
+            {"letra": "c", "opcion": "Filipinas"},
+            {"letra": "d", "opcion": "Canadá"}
+        ],
+        "respuesta_correcta": {"letra": "b", "opcion": "Indonesia"}
+    },
+    {
+        "numero_pregunta": 33,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Quién pintó 'Las Meninas'?",
+        "opciones": [
+            {"letra": "a", "opcion": "Pablo Picasso"},
+            {"letra": "b", "opcion": "Vincent van Gogh"},
+            {"letra": "c", "opcion": "Diego Velázquez"},
+            {"letra": "d", "opcion": "Leonardo da Vinci"}
+        ],
+        "respuesta_correcta": {"letra": "c", "opcion": "Diego Velázquez"}
+    },
+    {
+        "numero_pregunta": 34,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el océano más pequeño del mundo?",
+        "opciones": [
+            {"letra": "a", "opcion": "Índico"},
+            {"letra": "b", "opcion": "Pacífico"},
+            {"letra": "c", "opcion": "Ártico"},
+            {"letra": "d", "opcion": "Antártico"}
+        ],
+        "respuesta_correcta": {"letra": "d", "opcion": "Antártico"}
+    },
+    {
+        "numero_pregunta": 35,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el idioma oficial de Brasil?",
+        "opciones": [
+            {"letra": "a", "opcion": "Español"},
+            {"letra": "b", "opcion": "Inglés"},
+            {"letra": "c", "opcion": "Portugués"},
+            {"letra": "d", "opcion": "Francés"}
+        ],
+        "respuesta_correcta": {"letra": "c", "opcion": "Portugués"}
+    },
+    {
+        "numero_pregunta": 36,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el elemento químico más denso?",
+        "opciones": [
+            {"letra": "a", "opcion": "Oro"},
+            {"letra": "b", "opcion": "Uranio"},
+            {"letra": "c", "opcion": "Plutonio"},
+            {"letra": "d", "opcion": "Osmio"}
+        ],
+        "respuesta_correcta": {"letra": "d", "opcion": "Osmio"}
+    },
+    {
+        "numero_pregunta": 37,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el país más pequeño del mundo?",
+        "opciones": [
+            {"letra": "a", "opcion": "Vaticano"},
+            {"letra": "b", "opcion": "Mónaco"},
+            {"letra": "c", "opcion": "San Marino"},
+            {"letra": "d", "opcion": "Liechtenstein"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Vaticano"}
+    },
+    {
+        "numero_pregunta": 38,
+        "seccion": "reglamentacion",
+        "pregunta": "¿En qué país se encuentra la torre de Pisa?",
+        "opciones": [
+            {"letra": "a", "opcion": "Italia"},
+            {"letra": "b", "opcion": "España"},
+            {"letra": "c", "opcion": "Francia"},
+            {"letra": "d", "opcion": "Grecia"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Italia"}
+    },
+    {
+        "numero_pregunta": 39,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el río más largo de América del Sur?",
+        "opciones": [
+            {"letra": "a", "opcion": "Amazonas"},
+            {"letra": "b", "opcion": "Orinoco"},
+            {"letra": "c", "opcion": "Río de la Plata"},
+            {"letra": "d", "opcion": "Magdalena"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Amazonas"}
+    },
+    {
+        "numero_pregunta": 40,
+        "seccion": "reglamentacion",
+        "pregunta": "¿Cuál es el hueso más pequeño del cuerpo humano?",
+        "opciones": [
+            {"letra": "a", "opcion": "Estribo"},
+            {"letra": "b", "opcion": "Falange"},
+            {"letra": "c", "opcion": "Vértebra"},
+            {"letra": "d", "opcion": "Hueso hioides"}
+        ],
+        "respuesta_correcta": {"letra": "a", "opcion": "Estribo"}
+    }
+]
