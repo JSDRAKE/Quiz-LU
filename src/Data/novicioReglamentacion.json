@@ -9,7 +9,10 @@
             {"letra": "c", "opcion": " A: París"},
             {"letra": "d", "opcion": "Roma"}
         ],
-        "respuesta_correcta": {"letra": "c", "opcion": " A: París"}
+        "respuesta_correcta": [
+            {"letra": "c", "opcion": " A: París"},
+            {"letra": "b", "opcion": " B: Londres"}
+        ]
     },
     {
         "numero_pregunta": 2,
