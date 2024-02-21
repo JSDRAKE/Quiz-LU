@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
+import { View, Text, Pressable, StyleSheet } from 'react-native';
 
 
 const HomeScreen = ({ navigation }) => {
@@ -25,24 +25,24 @@ const HomeScreen = ({ navigation }) => {
         <Text style={styles.category}>Por favor elija una Categoría</Text>
   
         <View style={styles.buttonContainer}>
-          <TouchableOpacity
+          <Pressable
             style={styles.button}
             onPress={() => navigation.navigate('Novicio')}
           >
             <Text style={styles.buttonText}>Novicio</Text>
-          </TouchableOpacity>
-          <TouchableOpacity
+          </Pressable>
+          <Pressable
             style={styles.button}
             onPress={() => navigation.navigate('General')}
           >
             <Text style={styles.buttonText}>General</Text>
-          </TouchableOpacity>
-          <TouchableOpacity
+          </Pressable>
+          <Pressable
             style={styles.button}
             onPress={() => navigation.navigate('Superior')}
           >
             <Text style={styles.buttonText}>Superior</Text>
-          </TouchableOpacity>
+          </Pressable>
         </View>
       </View>
     );
